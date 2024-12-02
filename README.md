@@ -8,9 +8,9 @@
 **A Cookiecutter Demo Project**
 
 
--   Free software: Apache Software License 2.0
+-   Free software: Apache Software License
 -   Documentation: https://DeepakPant93.github.io/my-cookiecutter-demo
-    
+
 
 ## Features
 
