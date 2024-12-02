@@ -80,3 +80,14 @@ Homepage = "https://github.com/DeepakPant93/my-cookiecutter-demo"
 [build-system]
 requires = ["setuptools>=64", "setuptools_scm>=8"]
 build-backend = "setuptools.build_meta"
+
+
+[tool.black]
+line-length = 120
+target-version = ['py312']
+
+[tool.isort]
+profile = "black"
+
+[tool.mypy]
+ignore_missing_imports = true
